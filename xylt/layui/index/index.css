@@ -1,0 +1,23 @@
+.input_one
+{
+	width: 200px;
+	height: 33px;
+	margin-top: 13px;
+}
+.btn_one
+{
+	margin-left: -4px;
+}
+.flow li a
+{	
+	display: block;
+	overflow:hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	margin-top: 20px;
+}
+.footer li
+{
+	display: inline-block;
+	color: black;
+}
